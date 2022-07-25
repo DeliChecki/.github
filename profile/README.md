@@ -1,4 +1,4 @@
-<img src="https://github.com/DeliChecki/.github/raw/main/profile/DeliChecksBanner-3.png" />
+<img src="https://github.com/DeliChecki/.github/raw/main/profile/DeliChecksBanner.png" />
 
 <!--
 
