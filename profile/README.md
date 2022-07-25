@@ -1,4 +1,4 @@
-<img src="DeliChecksBanner-3.png"</img>
+<img src="DeliChecksBanner-3.png" />
 
 <!--
 
