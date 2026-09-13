@@ -1,4 +1,5 @@
-<img src="https://github.com/DeliChecki/.github/raw/main/profile/DeliChecksBanner-4.png" />
+<!--<img src="https://github.com/DeliChecki/.github/raw/main/profile/DeliChecksBanner-4.png" />-->
+<img width="1024" height="340" alt="banner" src="https://github.com/user-attachments/assets/ac10ed77-73c4-4eb4-940d-19eb2f776e0a" />
 
 <!--
 
